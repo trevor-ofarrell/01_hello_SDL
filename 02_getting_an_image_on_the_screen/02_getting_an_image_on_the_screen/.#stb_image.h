@@ -1,0 +1,1 @@
+oem@oem-ThinkPad-X1-Carbon-2nd.18824:1569183394
